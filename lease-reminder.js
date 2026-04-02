@@ -16,14 +16,14 @@ const leases = [
   {
     address: "240 Whitlock Pl NE",
     expiry:  "2026-06-12",
-    phone:   "+15879683926"
+    phone:   "+1403835499"
   }
 
 
   {
     address: "230 Whitlock Pl NE",
     expiry:  "2026-06-11",
-    phone:   "+15879683926"
+    phone:   "+1403835499"
   }
   // Add more leases here as needed:
   // { address: "...", expiry: "YYYY-MM-DD", phone: "+1..." },
